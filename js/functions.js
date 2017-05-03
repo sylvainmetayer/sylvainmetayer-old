@@ -18,5 +18,10 @@ $(document).ready(function () {
         g.src = u + 'piwik.js';
         s.parentNode.insertBefore(g, s);
     })();
+
+    gascrolldepth.init({
+        percentage: true,
+        PiwikPercentageA: true
+    });
 });
 
