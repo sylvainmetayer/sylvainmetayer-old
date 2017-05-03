@@ -6,7 +6,8 @@
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="/css/materialize.css" media="screen,projection"/>
-    <link rel="icon" href="/favicon.ico"/>
+    <link rel="icon" href="favicon.ico"/>
+    <link type="text/plain" rel="author" href="//sylvainmetayer.fr/humans.txt" /> 
 
     <meta name="author" content="Sylvain METAYER">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>

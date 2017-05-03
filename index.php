@@ -1,5 +1,3 @@
-<link type="text/plain" rel="author" href="//sylvainmetayer.fr/humans.txt" />
-
 <?php require_once('partials/header.php'); ?>
 <body>
 <main>
