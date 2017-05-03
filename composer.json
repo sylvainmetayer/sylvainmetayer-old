@@ -1,0 +1,17 @@
+{
+  "name": "sylvainmetayer/sylvainmetayer",
+  "description": "Portfolio",
+  "homepage": "https://github.com/sylvainmetayer/sylvainmetayer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sylvain METAYER",
+      "email": "contact@sylvainmetayer.fr",
+      "homepage": "https://sylvainmetayer.fr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "twig/twig": "1.*"
+  }
+}

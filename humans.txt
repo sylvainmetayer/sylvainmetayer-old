@@ -1,0 +1,9 @@
+/* TEAM */
+    Developer: Sylvain METAYER
+	Twitter: @sylvain_metayer
+	From:Bordeaux, France
+
+/* SITE */
+	Last update:2017/05/02
+	Language: French
+	Components: Materialize, Twig.

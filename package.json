@@ -1,0 +1,18 @@
+{
+  "name": "sylvainmetayer",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvainmetayer/sylvainmetayer.git"
+  },
+  "author": "Sylvain METAYER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvainmetayer/sylvainmetayer/issues"
+  },
+  "homepage": "https://github.com/sylvainmetayer/sylvainmetayer#readme",
+  "dependencies": {
+    "materialize-css": "*"
+  }
+}
