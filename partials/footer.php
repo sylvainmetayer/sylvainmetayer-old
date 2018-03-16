@@ -5,9 +5,6 @@
             <a href="//github.com/sylvainmetayer/sylvainmetayer">
                 (Sources)
             </a>
-            <a href="//analytics.sylvainmetayer.fr/index.php?module=CoreAdminHome&action=optOut&language=fr">
-                (Cookies)
-            </a>
         </div>
 
     </div>
